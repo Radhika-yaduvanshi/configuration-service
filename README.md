@@ -30,4 +30,12 @@ steps :
       config:
         import: optional:configserver:http://localhost:8085
 
+
+dependency for client-->
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-config</artifactId>
+		</dependency>
+
    
