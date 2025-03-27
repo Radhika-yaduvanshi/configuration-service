@@ -1,1 +1,4 @@
-
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://radhika:radhika@localhost:444/eureka/
