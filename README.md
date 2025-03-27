@@ -26,8 +26,8 @@ steps :
 
 7.Add configuration -->
 
-  spring:
-    config:
-      import: optional:configserver:http://localhost:8085
+    spring:
+      config:
+        import: optional:configserver:http://localhost:8085
 
    
