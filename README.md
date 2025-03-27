@@ -20,6 +20,7 @@ steps :
 
 5.Add you common configuration in your github config-server.yml file
 6.Add dependency for client  in another services 
+
 7.Add configuration -->
               
               spring:
